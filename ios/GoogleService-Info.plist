@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>355796545342-419hoeqqdmjcldtss5bfp90l4ver9ipt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.355796545342-419hoeqqdmjcldtss5bfp90l4ver9ipt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>355796545342-h1o8ve8q00p7rmup18avorm1ca744m07.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC496qsCR1g1mQQUw3deCvK-oZ8QmEJ-Ro</string>
+	<key>GCM_SENDER_ID</key>
+	<string>355796545342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartbs</string>
+	<key>PROJECT_ID</key>
+	<string>smartbs-7d92d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartbs-7d92d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:355796545342:ios:27100cbad96c947ee8866f</string>
+	<key>DATABASE_URL</key>
+	<string>https://smartbs-7d92d.firebaseio.com</string>
+</dict>
+</plist>

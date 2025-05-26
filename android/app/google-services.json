@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "355796545342",
+    "firebase_url": "https://smartbs-7d92d.firebaseio.com",
+    "project_id": "smartbs-7d92d",
+    "storage_bucket": "smartbs-7d92d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355796545342:android:2afb0f36c24c820ce8866f",
+        "android_client_info": {
+          "package_name": "com.smartbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355796545342-h1o8ve8q00p7rmup18avorm1ca744m07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartbs",
+            "certificate_hash": "5d6896489b69ebb8fd34c18b84b5fbd7594243f7"
+          }
+        },
+        {
+          "client_id": "355796545342-g4buc33t7j51k9p9ppkb1la5pdmlm9e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxPnrxCSxb-y7NdmPVjjOkgxdjFCX3wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355796545342-am2s8055n3jkvnb3uf5u4c80spf1h29p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355796545342-419hoeqqdmjcldtss5bfp90l4ver9ipt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartbs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
