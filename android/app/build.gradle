@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId "com.smartbs"
         minSdk 16
-        targetSdk 16
+        targetSdk 24
         versionCode 36
         versionName "1.0.0.36"
         
